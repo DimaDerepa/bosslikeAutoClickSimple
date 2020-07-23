@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>Another.Unofficial.Xilium.CefGlue.WindowsForms</id>
+    <version>0.2.3</version>
+    <authors>Xilium CefGlue Team, Paket packaging Harald Steinlechner</authors>
+    <description>An unofficial fork of official http://xilium.bitbucket.org/cefglue/ extended with
+easy nuget package creation and native dependencies injection.</description>
+    <releaseNotes>c01707</releaseNotes>
+    <dependencies>
+      <dependency id="Another.Unofficial.Xilium.CefGlue" version="[0.2.3]" />
+    </dependencies>
+  </metadata>
+</package>
